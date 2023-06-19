@@ -1,4 +1,4 @@
-# EXP-6 -> CALCULATING POWER USING RECURSION
+# EXP 04 - CALCULATING THE POWER 
 
 ## AIM :
 To Write a Java program to calculate the power of a number raised to other using recursion where the numbers a and b are to be entered by the user.
